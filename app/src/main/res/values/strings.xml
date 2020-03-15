@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice recognition</string>
+    <string name="no_recognition_available">Not available</string>
+</resources>
